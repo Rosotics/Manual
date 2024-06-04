@@ -1,0 +1,1 @@
+# Rosotics Corporate Manifesto
