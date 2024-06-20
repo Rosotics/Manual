@@ -28,7 +28,7 @@ Our research and development (R&D) department is our backbone, and we investigat
 
 The production department at Rosotics handles the assembly, Q/A and checkout of metal 3D printers. This team ensures that our systems are manufactured to the highest standard and are capable of meeting the rigorous demands of our customers in the aerospace, naval, and defense sectors.
 
-As we are still small and nimble, each system deplyoed in field is supported by direct service support from an engineer that worked to engineer and build your exact serial number, which works with an intricate understanding of machine and process, to ensure that our systems are implemented effectively and operate smoothly.
+As we are still small and nimble, each system deployed in field is supported by direct service support from an engineer that worked to engineer and build your exact serial number, which works with an intricate understanding of machine and process, to ensure that our systems are implemented effectively and operate smoothly.
 
 In addition to our internal structure, Rosotics has a strong focus on partnerships and collaboration. We work with leading academic institutions, research organizations, and industry partners to stay ahead of the curve and continuously improve our offerings.
 
