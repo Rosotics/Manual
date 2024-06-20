@@ -36,7 +36,7 @@ Our corporate culture is built on a foundation of innovation, excellence, and re
 
 ## Our thoughts on the future of AI
 
-To be clear, we are not developing or addressing the question of artificial general intelligence (AGI), but more so actively attempting to generate and deploy a more real-world derivative that could be used and deployed in secure manufacturing environments. We consider this to be a layer in subordinate command over hardware systems that can safely possess autonomy in order to intervene within the laws of physics, such as in complex metallurgical or superheated fluid behavior. We have a number of thoughts on this topic.
+To be clear, we are not developing or addressing the question of artificial general intelligence (AGI), but more so actively attempting to generate and deploy a more real-world derivative that could be used for work in secure manufacturing environments. We consider this to be a layer in subordinate command over hardware systems that can safely possess autonomy in order to intervene within the laws of physics, such as in complex metallurgical or superheated fluid behavior. We have a number of thoughts on this topic.
 
 ### General Considerations
 
