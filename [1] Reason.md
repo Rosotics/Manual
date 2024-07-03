@@ -42,7 +42,7 @@ To be clear, we are not developing or addressing the question of artificial gene
 
 Our stance on AI, which we term as the 'Phoenix Razor' is framed on three assumptions:
 
-1. In the near term, the capability of AI will advance in the context of accelerating returns [(Kurzeil)](https://www.edge.org/response-detail/10600). This will be compounded by [positive feedback loops](https://en.wikipedia.org/wiki/Positive_feedback), [emergent behaviors](https://tedai-sanfrancisco.ted.com/glossary/emergent-behavior/), and [evolutionary principle](https://en.wikipedia.org/wiki/Evolution) - this was reinforced at the introduction of GPT-4 in March 2023.
+1. In the near term, the capability of AI will advance in the context of accelerating returns [(Kurzweil)](https://www.edge.org/response-detail/10600). This will be compounded by [positive feedback loops](https://en.wikipedia.org/wiki/Positive_feedback), [emergent behaviors](https://tedai-sanfrancisco.ted.com/glossary/emergent-behavior/), and [evolutionary principle](https://en.wikipedia.org/wiki/Evolution) - this was reinforced at the introduction of GPT-4 in March 2023.
 2. Given enough cycles of iteration and not likely very many, an AI will soon exhibit the ability to dominantly command materials science.
 3. Given condition 1 and 2 are met, you are faced with only three options - be bankrupted in competition against that AI, prevent it from being created, or be first to create it.
 
