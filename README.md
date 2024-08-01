@@ -21,8 +21,6 @@
 ##### Austin Thurman, Founder — [X](https://twitter.com/austinthurman_); [LI](https://www.linkedin.com/in/austinthurman/)
 ##### David Buck, Dept. of Engineering — [LI](https://www.linkedin.com/in/davidbucksr/)
 ##### Adrian Abordo, Dept. of Engineering — [LI](https://www.linkedin.com/in/adrian-abordo-654223133/)
-##### Eric Weissman, Dept. of Engineering — [LI](https://www.linkedin.com/in/eric-weissman-eng/)
-##### Kalob Askey, Dept. of Engineering — [LI](https://www.linkedin.com/in/kalob-askey-890b101a6/)
 ##### Jonah Meiter, Dept. of Engineering — [LI](https://www.linkedin.com/in/jonahmeiter/)
 ##### Silas Olson, Dept. of Engineering — [LI](https://www.linkedin.com/in/silas-olson-ab6754291/)
 ##### Ray Noh, Dept. of Engineering — [LI](https://www.linkedin.com/in/ray-noh-rn2002/)
@@ -33,11 +31,12 @@
 ### Located in
 ##### Phoenix — [4520 E Mallory Circle, 105](https://maps.app.goo.gl/DHmsSwFFZpnzkVHD8)
 ##### San Diego — [Coming Soon](https://x.com/ctlrsa/status/1773150452177355101)
+##### Boulder — [Coming Soon](https://techcrunch.com/2024/07/23/rosotics-wants-to-manufacture-massive-orbital-shipyards-using-3d-printing/)
 
 ### Contributions
 ##### Ron Higgs, Kalob Beebout, Chris Morrison, Nils Hofmann (Advisory)
-##### Draper Associates, Vibe, Correlation, Unruly, Vannevar, Scope, JHH, Sequoia, a16z, W Ventures (Capital)
-##### N. Geddis, K. Tuck, J. Garcia, K. Chung, L. Early, L. Dettmer, Z. Vrbas, B. Sinclair, J. Greenfield, D. Cano, J. Malmo, P. Novoa, C. Heath (Prowess)
+##### Draper Associates, Vibe, Correlation, Unruly, Vannevar, Scope, JHH (Capital)
+##### E. Weissman, K. Askey, N. Geddis, K. Tuck, J. Garcia, K. Chung, L. Early, L. Dettmer, Z. Vrbas, B. Sinclair, J. Greenfield, D. Cano, J. Malmo, P. Novoa, C. Heath (Prowess)
 
 ### Join Us
 ##### Internship — We run programs in the Summer and in the Fall. Please reach out to team members individually if interested.
